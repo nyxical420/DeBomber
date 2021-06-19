@@ -1,8 +1,8 @@
 # DeBomber
-A Word Bomb Roblox Script
+With this script you can always win any rounds, wich is really OP.
 
-> Status: Testing Script
+(yeah you dont need to use an executor to exploit)
 
-## Disclaimer
-The script crashes when there are no words containing the following letters,
-to avoid the crash, add any words with the missing letters.
+![debomb](https://user-images.githubusercontent.com/53323309/122628811-02ee5d80-d0eb-11eb-9146-15f5fa2c3edd.gif)
+
+I'm also making a code to "realistically" type words
