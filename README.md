@@ -8,6 +8,9 @@ With this script you can always win any rounds, wich is really OP.
 I'm also making a code to "realistically" type words
 
 Words taken from
+
 [MIT](https://www.mit.edu/~ecprice/wordlist.10000)
+
 [Word Bomb Fandom (Long Words)](https://wordbombroblox.fandom.com/wiki/List_of_long_words)
+
 [Word Bomb Fandom (Expert Words](https://wordbombroblox.fandom.com/wiki/List_of_expert_words)
