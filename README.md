@@ -13,4 +13,4 @@ Words taken from
 
 [Word Bomb Fandom (Long Words)](https://wordbombroblox.fandom.com/wiki/List_of_long_words)
 
-[Word Bomb Fandom (Expert Words](https://wordbombroblox.fandom.com/wiki/List_of_expert_words)
+[Word Bomb Fandom (Expert Words)](https://wordbombroblox.fandom.com/wiki/List_of_expert_words)
