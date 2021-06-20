@@ -7,7 +7,7 @@ With this script you can always win any rounds, wich is really OP.
 
 I'm also making a code to "realistically" type words
 
-Words taken from
+Words taken from:
 
 [MIT](https://www.mit.edu/~ecprice/wordlist.10000)
 
