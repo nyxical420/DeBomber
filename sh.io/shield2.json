@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
   "label": "Bug Bot",
-  "message": "Requests Off",
-  "color": "inactive"
+  "message": "Requests On",
+  "color": "active"
 }
