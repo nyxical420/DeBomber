@@ -4,7 +4,8 @@ With this script you can always win any rounds, wich is really OP.
 (yeah you dont need to use an executor to exploit)
 
 ![Custom badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fraw.githubusercontent.com%2Fxacvwe%2FDeBomber%2Fmain%2Fsh.io%2Fshield1.json)  
-![Custom badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fraw.githubusercontent.com%2Fxacvwe%2FDeBomber%2Fmain%2Fsh.io%2Fshield2.json)
+![Custom badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fraw.githubusercontent.com%2Fxacvwe%2FDeBomber%2Fmain%2Fsh.io%2Fshield2.json)  
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/xacvwe/DeBomber/main?style=for-the-badge)
 
 ![debomb](https://user-images.githubusercontent.com/53323309/122628811-02ee5d80-d0eb-11eb-9146-15f5fa2c3edd.gif)
 
