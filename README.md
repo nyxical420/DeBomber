@@ -2,7 +2,6 @@
 With this script you can always win any rounds, wich is really OP.
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/xacvwe/DeBomber?color=blueviolet&label=Latest%20Release&style=for-the-badge)
-![GitHub release (latest by date)](https://img.shields.io/github/downloads/xacvwe/DeBomber/v1.1.0/total?style=for-the-badge)  
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/xacvwe/DeBomber/main?style=for-the-badge)
 ![Custom badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fraw.githubusercontent.com%2Fxacvwe%2FDeBomber%2Fmain%2Fsh.io%2Fshield2.json)
 
