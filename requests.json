@@ -2,5 +2,5 @@
   "schemaVersion": 1,
   "label": "Bug Requests",
   "message": "Requests Off",
-  "color": "active"
+  "color": "inactive"
 }
