@@ -7,9 +7,6 @@ With this script you can always win any rounds, wich is really OP.
 
 ![debomb](https://user-images.githubusercontent.com/53323309/122628811-02ee5d80-d0eb-11eb-9146-15f5fa2c3edd.gif)
 
-![latest](https://user-images.githubusercontent.com/53323309/123028760-845b2e00-d412-11eb-8af3-e117d1c00f75.png) Latest GUI
-
-
 I'm also making a code to "realistically" type words
 
 Words taken from:
