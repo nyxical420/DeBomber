@@ -6,9 +6,15 @@ With this script you can always win any rounds, wich is really OP.
 ![Custom badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fraw.githubusercontent.com%2Fxacvwe%2FDeBomber%2Fmain%2Frequests.json)
 ![GitHub all releases](https://img.shields.io/github/downloads/xacvwe/DeBomber/total?style=for-the-badge)
 
-![debomb](https://user-images.githubusercontent.com/53323309/122628811-02ee5d80-d0eb-11eb-9146-15f5fa2c3edd.gif)
+# Showcasing
 
-I'm also making a code to "realistically" type words
+Roblox WordBomb:
+
+GIF Here
+
+JKLM BombParty:
+
+Gif Here
 
 Words taken from:
 
