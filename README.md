@@ -1,4 +1,5 @@
-# DeBomber
+# ![Hnet com-image (4)](https://user-images.githubusercontent.com/53323309/123511789-ee473200-d6b5-11eb-9f03-09412ae4edb5.png) DeBomber
+
 With this script you can always win any rounds, wich is really OP.
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/xacvwe/DeBomber?color=blueviolet&label=Latest%20Release&style=for-the-badge)
