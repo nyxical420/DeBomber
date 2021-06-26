@@ -14,11 +14,3 @@ Words taken from:
 [Word Bomb Fandom (Long Words)](https://wordbombroblox.fandom.com/wiki/List_of_long_words)
 
 [Word Bomb Fandom (Expert Words)](https://wordbombroblox.fandom.com/wiki/List_of_expert_words)
-
-The DeBomber Icon does not belong to me, it belongs to the OMG GO! group who created Word Bomb.
-
-[OMG Go! Discord](https://discord.com/invite/CHzW4Kf)
-
-[OMG Go! Roblox Group](https://www.roblox.com/groups/4585943/OMG-Go#!/about)
-
-[Word Bomb](https://www.roblox.com/games/2653064683/Word-Bomb?)
