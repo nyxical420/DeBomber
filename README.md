@@ -6,16 +6,6 @@ With this script you can always win any rounds, wich is really OP.
 ![Custom badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fraw.githubusercontent.com%2Fxacvwe%2FDeBomber%2Fmain%2Frequests.json)
 ![GitHub all releases](https://img.shields.io/github/downloads/xacvwe/DeBomber/total?style=for-the-badge)
 
-# Showcasing
-
-Roblox WordBomb:
-
-GIF Here
-
-JKLM BombParty:
-
-Gif Here
-
 Words taken from:
 
 [MIT](https://www.mit.edu/~ecprice/wordlist.10000)
