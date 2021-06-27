@@ -14,3 +14,7 @@ Words taken from:
 [Word Bomb Fandom (Long Words)](https://wordbombroblox.fandom.com/wiki/List_of_long_words)
 
 [Word Bomb Fandom (Expert Words)](https://wordbombroblox.fandom.com/wiki/List_of_expert_words)
+
+[Peter Norvig (enable1)](http://norvig.com/ngrams/enable1.txt)
+
+[Moby Crossword](https://raw.githubusercontent.com/bgreenlee/scrabble-suggest/master/data/word_list_moby_crossword-flat/word_list_moby_crossword.flat.txt)
