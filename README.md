@@ -1,10 +1,10 @@
 # ![debombericon](https://user-images.githubusercontent.com/53323309/123511789-ee473200-d6b5-11eb-9f03-09412ae4edb5.png) DeBomber
 
-With this script you can always win any rounds, wich is really OP.
-
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/xacvwe/DeBomber?color=blueviolet&label=Latest%20Release&style=for-the-badge)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/xacvwe/DeBomber/main?style=for-the-badge)
 ![GitHub all releases](https://img.shields.io/github/downloads/xacvwe/DeBomber/total?style=for-the-badge)
+
+With this script you can always win any rounds, wich is really OP.
 
 Words taken from:
 
