@@ -4,8 +4,6 @@
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/xacvwe/DeBomber/main?style=for-the-badge)
 ![GitHub all releases](https://img.shields.io/github/downloads/xacvwe/DeBomber/total?style=for-the-badge)
 
-With this script you can always win any rounds, wich is really OP.
-
 Words taken from:
 
 [MIT](https://www.mit.edu/~ecprice/wordlist.10000)
