@@ -1,1 +1,15 @@
+Version: v1.3.5
 
+Release Info:
+
+  Random Speed Update
+    Random speed will now "realistically" enter keys, but slow.
+  
+  Added handler for JKLM
+    Added handler for searching for JKLM Tab when enter key is pressed.
+  
+  Show Usedwords List
+    Clicking the GUI Version next to the clear list button displays the list of words that is already used.
+  
+  Updater Update
+    Updater wont be installing the new version automatically, it will download by your preferred choice.
