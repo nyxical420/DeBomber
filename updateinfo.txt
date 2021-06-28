@@ -1,28 +1,14 @@
-Version: v1.3.0
+Version: v1.3.5
 
 Release Info:
-    Now available on JKLM BombParty!
-    You can now use DeBomber on JKLM BombParty by switching the Game Type to JKLM BombParty!
-
-    Added JKLM BombParty game setting
-        You can now switch Game Type to Roblox to JKLM!
+    Random Speed Update
+        Random speed will now "realistically" enter keys, but slow.
         
-    New GUI Window
-    
-    Removed Settings Config
-        GUI Settings are not saved on Exit.
-
-    Removed DeBomber Console
-        Removed Console, will be added back in future versions.
-
-    Dictionary File Update
-        Text files are placed automatically in a combo box, this is added so you don't have to type in the text file's name and text file's extension.
-
-    Locked Window Size
-        Updater window and DeBomber Window will not be resized or show the resize cursor when moving the mouse in the window border.
-
-    Added more text files
-        Added text files for both Roblox WordBomb and JKLM BombParty, Placed in a folder.
-
-    New Icon
-        Created new DeBomber icon, OMG Go! might screw me up
+    Added handler for JKLM
+        Added handler for searching for JKLM Tab when enter key is pressed.
+        
+    Show Usedwords List
+        Clicking the GUI Version next to the clear list button displays the list of words that is already used.
+        
+    Updater Update
+        Updater wont be installing the new version automatically, it will download by your preferred choice.
