@@ -4,6 +4,9 @@
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/xacvwe/DeBomber/main?style=for-the-badge)
 ![GitHub all releases](https://img.shields.io/github/downloads/xacvwe/DeBomber/total?style=for-the-badge)
 
+## Announcement
+Heya! DeBomber Updates will be delayed, since my computer data lost and have to reinstall windows.
+
 OCR Available Here!
 
 [xacvwe/DeBomberOCR](https://github.com/xacvwe/DeBomberOCR)
