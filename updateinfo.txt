@@ -1,15 +1,20 @@
-Version: v1.3.5
+Version: v1.4.0
 
 Release Info:
 
-  Random Speed Update
-    Random speed will now "realistically" enter keys, but slow.
+  New DeBomber UI
+    DeBomber now has a new UI.
   
-  Added handler for JKLM
-    Added handler for searching for JKLM Tab when enter key is pressed.
+  ADB Switch (Active, Disabled - Working on it)
+    You can now use DeBomber ADB inside DeBomber.
   
-  Show Usedwords List
-    Clicking the GUI Version next to the clear list button displays the list of words that is already used.
+  Bonus Letters
+    DeBomber now uses Bonus Letters to avoid death, Also shows Bonus Letters from the UI.
+       Using DeBomber OCR Bonus Letter Check Code.
+       Accuracy depends in user input if you didn't place letters wrong.
   
-  Updater Update
-    Updater wont be installing the new version automatically, it will download by your preferred choice.
+  Removed Random Speed
+     Will be replaced with a new realistic one in future updates.
+  
+  Bonus Letters Reset
+     Type in -re to restart Bonus Letters at the Letter Box.
