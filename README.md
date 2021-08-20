@@ -7,6 +7,7 @@
 ## Announcement
 Updates are delayed because i have to do school work, so updates might take more than 3 weeks or nearly a month.
 
+##
 OCR Available Here!
 
 [xacvwe/DeBomberOCR](https://github.com/xacvwe/DeBomberOCR)
