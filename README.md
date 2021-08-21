@@ -5,7 +5,7 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/xacvwe/DeBomber/total?style=for-the-badge)
 
 ## Announcement
-Updates are delayed because i have to do school work, so updates might take more than 3 weeks or nearly a month.
+Updates are delayed because i have to do school work, so updates might take more than 3 days or nearly a month.
 
 ##
 OCR Available Here!
