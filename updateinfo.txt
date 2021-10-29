@@ -1,20 +1,25 @@
-Version: v1.4.0
+Version: v1.4.5
 
 Release Info:
 
-  New DeBomber UI
-    DeBomber now has a new UI.
+  Human Mode (v1)
+   Human mode is a mode that makes the script type like an human
+     This makes people thing that your playing legit.
+     
+  Settings Tab
+    Added a settings tab to organize DeBomber so it wont be a mess, all stuff on settings are Experimental.
   
-  ADB Switch (Active, Disabled - Working on it)
-    You can now use DeBomber ADB inside DeBomber.
+  Text Files
+    Removed two text files, and added a longwords text file for BombParty.
   
-  Bonus Letters
-    DeBomber now uses Bonus Letters to avoid death, Also shows Bonus Letters from the UI.
-       Using DeBomber OCR Bonus Letter Check Code.
-       Accuracy depends in user input if you didn't place letters wrong.
-  
-  Removed Random Speed
-     Will be replaced with a new realistic one in future updates.
-  
-  Bonus Letters Reset
-     Type in -re to restart Bonus Letters at the Letter Box.
+  Typo
+    Available when Human Mode is Enabled.
+      Presses a random key to make it look real.
+    
+  Restore Bonus Words
+    Created a setting for restoring bonus words if you mistakenly pressed enter, or sent the wrong letters.
+      Replaced Last Letters with Restore, since you can do ctrl + z instead.
+    
+  Multi-account
+     Plays with 2 accounts at once (switches windows with a incognito tab)
+       If your account is first, please start on the incognito tab.
