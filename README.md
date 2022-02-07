@@ -4,9 +4,6 @@
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/xacvwe/DeBomber/main?style=for-the-badge)
 ![GitHub all releases](https://img.shields.io/github/downloads/xacvwe/DeBomber/total?style=for-the-badge)
 
-## Announcement
-Updates are delayed because i have to do school work, so updates might take more than 3 days or so.
-
 ##
 OCR Available Here!
 
