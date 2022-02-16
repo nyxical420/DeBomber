@@ -4,10 +4,10 @@
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/xacvwe/DeBomber/main?style=for-the-badge)
 ![GitHub all releases](https://img.shields.io/github/downloads/xacvwe/DeBomber/total?style=for-the-badge)
 
-##
-OCR Available Here!
 
-[xacvwe/DeBomberOCR](https://github.com/xacvwe/DeBomberOCR)
+
+
+
 
 Words taken from:
 
