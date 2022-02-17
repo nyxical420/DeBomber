@@ -4,6 +4,8 @@
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/xacvwe/DeBomber/main?style=for-the-badge)
 ![GitHub all releases](https://img.shields.io/github/downloads/xacvwe/DeBomber/total?style=for-the-badge)
 
+(No Releases since we're currently working on a stable release.)
+
 Words taken from:
 
 [MIT](https://www.mit.edu/~ecprice/wordlist.10000)
