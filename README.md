@@ -4,7 +4,7 @@
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/xacvwe/DeBomber/main?style=for-the-badge)
 ![GitHub all releases](https://img.shields.io/github/downloads/xacvwe/DeBomber/total?style=for-the-badge)
 
-DeBomber is a Word Bomb (Roblox) and BombParty (JKLM.FUN) script
+DeBomber is a Roblox WordBomb and JKLM.FUN BombParty Script
 
 Words taken from:\
 [MIT](https://www.mit.edu/~ecprice/wordlist.10000)\
