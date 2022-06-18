@@ -4,14 +4,11 @@
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/xacvwe/DeBomber/main?style=for-the-badge)
 ![GitHub all releases](https://img.shields.io/github/downloads/xacvwe/DeBomber/total?style=for-the-badge)
 
-Words taken from:
+DeBomber is a Word Bomb (Roblox) and BombParty (JKLM.FUN) script
 
-[MIT](https://www.mit.edu/~ecprice/wordlist.10000)
-
-[Word Bomb Fandom (Long Words)](https://wordbombroblox.fandom.com/wiki/List_of_long_words)
-
-[Word Bomb Fandom (Expert Words)](https://wordbombroblox.fandom.com/wiki/List_of_expert_words)
-
-[Peter Norvig (enable1)](http://norvig.com/ngrams/enable1.txt)
-
+Words taken from:\
+[MIT](https://www.mit.edu/~ecprice/wordlist.10000)\
+[Word Bomb Fandom (Long Words)](https://wordbombroblox.fandom.com/wiki/List_of_long_words)\
+[Word Bomb Fandom (Expert Words)](https://wordbombroblox.fandom.com/wiki/List_of_expert_words)\
+[Peter Norvig (enable1)](http://norvig.com/ngrams/enable1.txt)\
 [Moby Crossword](https://raw.githubusercontent.com/bgreenlee/scrabble-suggest/master/data/word_list_moby_crossword-flat/word_list_moby_crossword.flat.txt)
