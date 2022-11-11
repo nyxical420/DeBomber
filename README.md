@@ -1,5 +1,6 @@
-| :bangbang: | DeBomber is currently being Rewrited to be Faster. Please wait for a new release!
-| :--------- | :--
+| :bangbang: | DeBomber is currently being Rewrited to be Faster. Please wait for a new release! |
+| :--------- | :-- |
+
 The new DeBomber release is expected to be uploaded at Nov 25 - Dec 31.
 
 # ![debombericon](https://user-images.githubusercontent.com/53323309/123511789-ee473200-d6b5-11eb-9f03-09412ae4edb5.png) DeBomber
