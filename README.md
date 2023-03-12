@@ -1,4 +1,4 @@
-| :bangbang: | DeBomber is currently being remade to be Faster. Please wait for a new release! |
+| :bangbang: | DeBomber is currently being reworked to a browser version. |
 | :--------- | :-- |
 
 
